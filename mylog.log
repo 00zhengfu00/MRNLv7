@@ -1,0 +1,7 @@
+001 23,2014 12:01:35 上午 : ERROR [AWT-EventQueue-0] [Ljava.lang.StackTraceElement;@1976011
+002 23,2014 12:02:25 上午 : ERROR [AWT-EventQueue-0] -1
+003 23,2014 12:03:51 上午 : ERROR [AWT-EventQueue-0] -1
+004 23,2014 12:04:11 上午 : ERROR [AWT-EventQueue-0] -1
+005 23,2014 12:05:04 上午 : ERROR [AWT-EventQueue-0] The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)
+057 23,2014 09:57:44 上午 : ERROR [AWT-EventQueue-0] The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)
+054 24,2014 09:54:25 下午 : ERROR [AWT-EventQueue-0] Lock obtain timed out: NativeFSLock@L:\work\MyReferenceLibrary\index\write.lock
